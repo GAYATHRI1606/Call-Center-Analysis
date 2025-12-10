@@ -30,23 +30,23 @@ This project involves:
 
 
 
-**Column Name                Description**
+**Column Name and Description**:                              
 
 
 
-Call Number	           Unique call reference (call\_1000 …)
+**Call Number** - Unique call reference (call\_1000 …)
 
-Customer ID	           Repeat values from C001–C070
+**Customer ID** - Repeat values from C001–C070
 
-Duration	           Call duration
+**Duration** - Call duration
 
-Representation	           Repeated Representatives (R001-R007)
+**Representation** - Repeated Representatives (R001-R007)
 
-Date of Call	           Daily calls from Jan–Dec 2025
+**Date of Call** - Daily calls from Jan–Dec 2025
 
-Purchase Amount	           Amount values
+**Purchase Amount** - Amount values
 
-Satisfaction Rating	   Rating from 1.0 to 5.0
+**Satisfaction Rating** - Rating from 1.0 to 5.0
 
 
 
@@ -154,6 +154,7 @@ Feel free to reach out for collaboration or queries:
 📧 Email: gayathri.g1606@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/gayathri-ganesan-32b153240/
+
 
 
 
